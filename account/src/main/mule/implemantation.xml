@@ -55,6 +55,7 @@ output application/json
 	
 	}))]]></ee:set-payload>
 			</ee:message>
+			<ee:variables />
 		</ee:transform>
 	</flow>
 </mule>

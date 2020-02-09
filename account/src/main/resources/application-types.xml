@@ -10,4 +10,5 @@ type: string]]></types:shape>
 type: string]]></types:shape>
     </types:type>
   </types:catalog>
+  <types:enrichment select="#580ba760-a3a1-4eef-9862-d2ed483974b2"/>
 </types:mule>
